@@ -1,0 +1,57 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.nav{
+    background-color: lightslategray;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.welcome{
+    font-size: 70px;
+    text-align: left;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:coral;
+    background-image: url("headerimage.jpg");
+    background-size: auto;
+}
+
+.contactImg{
+    height:50px;
+    width: 50px;
+}
+
+td{
+        vertical-align: top;
+}
+P{
+    margin-left: 30px;
+}
+h3{
+    margin-left: 30px;
+    margin-bottom:0px
+}
+ul{
+    margin-left: 30px;
+}
+
+.footerText{
+    background-color: lightslategray;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:10px;
+    }
+    .gbblogo{
+        float:left
+        
+    }
+.blbologo{
+    width:250px;
+    height:65px;
+}
+
+.contact{
+    margin-left: 30px;
+}
